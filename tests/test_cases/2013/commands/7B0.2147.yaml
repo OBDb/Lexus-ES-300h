@@ -10,6 +10,14 @@ test_cases:
   response: 7B807614700007D7E4C
 - expected_values:
     LEXUS_LAT_G: 0
+    LEXUS_LNG_G: 0.08
+    LEXUS_STEERING_ANGLE: 0
+    LEXUS_STEER_ANGLE: 0
+    LEXUS_YAW: 0
+    LEXUS_YAW_RATE: 0
+  response: 7B80761470004808000
+- expected_values:
+    LEXUS_LAT_G: 0
     LEXUS_LNG_G: -0.02
     LEXUS_STEERING_ANGLE: -2.6
     LEXUS_STEER_ANGLE: -2.6
@@ -33,14 +41,6 @@ test_cases:
     LEXUS_YAW_RATE: 0
   response: 7B80761470100808618
 - expected_values:
-    LEXUS_LAT_G: 0.06
-    LEXUS_LNG_G: 0.02
-    LEXUS_STEERING_ANGLE: 0
-    LEXUS_STEER_ANGLE: 0
-    LEXUS_YAW: 0
-    LEXUS_YAW_RATE: 0
-  response: 7B80761470301808000
-- expected_values:
     LEXUS_LAT_G: 0.2
     LEXUS_LNG_G: 0
     LEXUS_STEERING_ANGLE: 26.4
@@ -48,6 +48,14 @@ test_cases:
     LEXUS_YAW: 6
     LEXUS_YAW_RATE: 6
   response: 7B80761470A00868108
+- expected_values:
+    LEXUS_LAT_G: -0.18
+    LEXUS_LNG_G: -0.16
+    LEXUS_STEERING_ANGLE: -245.3
+    LEXUS_STEER_ANGLE: -245.3
+    LEXUS_YAW: -27
+    LEXUS_YAW_RATE: -27
+  response: 7B8076147F7F865766B
 - expected_values:
     LEXUS_LAT_G: -0.16
     LEXUS_LNG_G: -0.08
