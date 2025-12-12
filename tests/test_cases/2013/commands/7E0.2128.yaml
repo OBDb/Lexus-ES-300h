@@ -3,3 +3,21 @@ test_cases:
 - expected_values:
     LEXUS_ODO_V3_V2: 268405
   response: '7E8056128041875'
+- expected_values:
+    LEXUS_ODO_V3_V2: 268407
+  response: '7E8056128041877'
+- expected_values:
+    LEXUS_ODO_V3_V2: 268408
+  response: '7E8056128041878'
+- expected_values:
+    LEXUS_ODO_V3_V2: 268410
+  response: 7E805612804187A
+- expected_values:
+    LEXUS_ODO_V3_V2: 268412
+  response: 7E805612804187C
+- expected_values:
+    LEXUS_ODO_V3_V2: 268413
+  response: 7E805612804187D
+- expected_values:
+    LEXUS_ODO_V3_V2: 268415
+  response: 7E805612804187F
