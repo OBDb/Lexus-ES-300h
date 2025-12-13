@@ -1,9 +1,9 @@
 command_id: 7C0.2129
 test_cases:
 - expected_values:
-    LEXUS_FLI_VOL: 12.28534
-    LEXUS_FUEL_INPUT: 93
-  response: 7C80361295D
+    LEXUS_FLI_VOL: 11.88904
+    LEXUS_FUEL_INPUT: 90
+  response: 7C80361295A
 - expected_values:
     LEXUS_FLI_VOL: 14.00264
     LEXUS_FUEL_INPUT: 106
