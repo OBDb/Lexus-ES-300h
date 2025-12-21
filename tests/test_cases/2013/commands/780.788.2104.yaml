@@ -13,5 +13,8 @@ test_cases:
     LEXUS_BUCKLE_RS: 2
   response: '78806610402030202'
 - expected_values:
+    LEXUS_BUCKLE_RS: 1
+  response: '78806610402050201'
+- expected_values:
     LEXUS_BUCKLE_RS: 2
   response: '78806610402050202'
