@@ -19,12 +19,20 @@ test_cases:
     7582A10076116000031
     7582A21330000000000
 - expected_values:
+    LEXUS_TIRE_T_FL: -16
+    LEXUS_TIRE_T_FR: -15
+    LEXUS_TIRE_T_RL: -14
+    LEXUS_TIRE_T_RR: -14
+  response: |-
+    7582A1007611618191A
+    7582A211A0000000000
+- expected_values:
     LEXUS_TIRE_T_FL: -10
-    LEXUS_TIRE_T_FR: -9
+    LEXUS_TIRE_T_FR: -10
     LEXUS_TIRE_T_RL: -9
     LEXUS_TIRE_T_RR: -8
   response: |-
-    7582A100761161E1F1F
+    7582A100761161E1E1F
     7582A21200000000000
 - expected_values:
     LEXUS_TIRE_T_FL: -5
