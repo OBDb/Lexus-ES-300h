@@ -72,3 +72,6 @@ test_cases:
     LEXUS_YAW: -7
     LEXUS_YAW_RATE: -7
   response: 7B8076147FF00797D42
+- expected_values:
+    LEXUS_LAT_G: 0
+  response: '7E803614700'
