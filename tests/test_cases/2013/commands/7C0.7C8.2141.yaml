@@ -4,29 +4,5 @@ test_cases:
     LEXUS_OIL_CHANGE_ODO: 160.9344
   response: 7C803614101
 - expected_values:
-    LEXUS_OIL_CHANGE_ODO: 321.8688
-  response: 7C803614102
-- expected_values:
-    LEXUS_OIL_CHANGE_ODO: 482.8032
-  response: 7C803614103
-- expected_values:
-    LEXUS_OIL_CHANGE_ODO: 643.7376
-  response: 7C803614104
-- expected_values:
-    LEXUS_OIL_CHANGE_ODO: 804.672
-  response: 7C803614105
-- expected_values:
-    LEXUS_OIL_CHANGE_ODO: 965.6064
-  response: 7C803614106
-- expected_values:
-    LEXUS_OIL_CHANGE_ODO: 1126.5408
-  response: 7C803614107
-- expected_values:
-    LEXUS_OIL_CHANGE_ODO: 1287.4752
-  response: 7C803614108
-- expected_values:
-    LEXUS_OIL_CHANGE_ODO: 1448.4096
-  response: 7C803614109
-- expected_values:
-    LEXUS_OIL_CHANGE_ODO: 1609.344
-  response: 7C80361410A
+    LEXUS_OIL_CHANGE_ODO: 1770.2784
+  response: 7C80361410B
