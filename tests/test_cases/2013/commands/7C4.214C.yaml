@@ -12,6 +12,13 @@ test_cases:
     7C6300100
     7CE21050E0000000000
 - expected_values:
+    LEXUS_EVAP_TARGET_T: 2
+  response: |-
+    7CC04614C80C8
+    7C603A81387
+    7C603A81387
+    7C603A81387
+- expected_values:
     LEXUS_EVAP_TARGET_T: 2.7
   response: 7CC04614C810E
 - expected_values:
