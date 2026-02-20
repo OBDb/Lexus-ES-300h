@@ -10,5 +10,5 @@ test_cases:
     LEXUS_ODO_V3: 269567
   response: 7E8056128041CFF
 - expected_values:
-    LEXUS_ODO_V3: 269825
-  response: 7E8056128041E01
+    LEXUS_ODO_V3: 270085
+  response: 7E8056128041F05
