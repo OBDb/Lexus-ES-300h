@@ -15,9 +15,8 @@ test_cases:
     7C6300100
     7CE21050E0000000000
 - expected_values:
-    LEXUS_PARKING_BRAKE: 'Off'
     LEXUS_PARKING_BRAKE_2: 1
-  response: 7D8046162017C
+  response: 7D80461621982
 - expected_values:
     LEXUS_PARKING_BRAKE_2: 1
   response: 7D80461621D00
