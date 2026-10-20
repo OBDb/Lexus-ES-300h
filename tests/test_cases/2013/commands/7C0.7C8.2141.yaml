@@ -1,8 +1,8 @@
 command_id: 7C0.7C8.2141
 test_cases:
 - expected_values:
-    LEXUS_OIL_CHANGE_ODO: 160.9344
+    ES300H_OIL_CHANGE_ODO: 160.9344
   response: 7C803614101
 - expected_values:
-    LEXUS_OIL_CHANGE_ODO: 3057.7536
+    ES300H_OIL_CHANGE_ODO: 3057.7536
   response: 7C803614113

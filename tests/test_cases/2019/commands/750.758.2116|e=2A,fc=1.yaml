@@ -1,0 +1,11 @@
+command_id: 750.758.2116|e=2A,fc=1
+test_cases:
+- expected_values:
+    ES300H_TT_FL: 42
+    ES300H_TT_FR: 44
+    ES300H_TT_RL: 38
+    ES300H_TT_RR: 39
+    ES300H_TT_SPARE: 37
+  response: |-
+    7582A1007611652544E
+    7582A214F4D00000000

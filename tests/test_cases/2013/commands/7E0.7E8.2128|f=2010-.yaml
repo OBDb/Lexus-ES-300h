@@ -1,14 +1,14 @@
-command_id: 7E0.7E8.2128
+command_id: 7E0.7E8.2128|f=2010-
 test_cases:
 - expected_values:
-    LEXUS_ODO_V3: 268405
+    ES300H_ODO_7E0: 268405
   response: '7E8056128041875'
 - expected_values:
-    LEXUS_ODO_V3: 269567
+    ES300H_ODO_7E0: 269567
   response: 7E8056128041CFF
 - expected_values:
-    LEXUS_ODO_V3: 270336
+    ES300H_ODO_7E0: 270336
   response: '7E8056128042000'
 - expected_values:
-    LEXUS_ODO_V3: 271360
+    ES300H_ODO_7E0: 271360
   response: '7E8056128042400'

@@ -1,20 +1,20 @@
 command_id: 7C4.7CC.2129
 test_cases:
 - expected_values:
-    LEXUS_T_DRIVER: 0
+    ES300H_T_DRIVER: 0
   response: 7CC03612900
 - expected_values:
-    LEXUS_T_DRIVER: 32
+    ES300H_T_DRIVER: 32
   response: 7CC03612920
 - expected_values:
-    LEXUS_T_DRIVER: 38
+    ES300H_T_DRIVER: 38
   response: 7CC03612926
 - expected_values:
-    LEXUS_T_DRIVER: 51
+    ES300H_T_DRIVER: 51
   response: 7CC03612933
 - expected_values:
-    LEXUS_T_DRIVER: 53
+    ES300H_T_DRIVER: 53
   response: 7CC03612935
 - expected_values:
-    LEXUS_T_DRIVER: 54
+    ES300H_T_DRIVER: 54
   response: 7CC03612936

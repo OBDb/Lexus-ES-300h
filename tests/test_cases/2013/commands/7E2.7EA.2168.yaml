@@ -1,0 +1,7 @@
+command_id: 7E2.7EA.2168
+test_cases:
+- expected_values:
+    ES300H_MG2_CTRL_MODE_PWM_0_1_2: 0
+    ES300H_MG2_TQ: 12.125
+    ES300H_MG2_TQ_EXECUTION: 10.875
+  response: 7EA0761688061805700
