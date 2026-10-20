@@ -1,12 +1,10 @@
 command_id: 7D0.7D8.2162
 test_cases:
 - expected_values:
-    LEXUS_PARKING_BRAKE: 'Off'
-    LEXUS_PARKING_BRAKE_2: 1
+    ES300H_PARKING_BRAKE: 0
   response: 7D80461620100
 - expected_values:
-    LEXUS_PARKING_BRAKE: 'Off'
-    LEXUS_PARKING_BRAKE_2: 1
+    ES300H_PARKING_BRAKE: 0
   response: |-
     7D80461620100
     7C603A81387
@@ -15,9 +13,8 @@ test_cases:
     7C6300100
     7CE21050E0000000000
 - expected_values:
-    LEXUS_PARKING_BRAKE: 'Off'
-    LEXUS_PARKING_BRAKE_2: 1
+    ES300H_PARKING_BRAKE: 0
   response: 7D80461620187
 - expected_values:
-    LEXUS_PARKING_BRAKE_2: 1
+    ES300H_PARKING_BRAKE: 0
   response: 7D80461621D00

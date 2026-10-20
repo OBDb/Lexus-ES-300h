@@ -1,0 +1,5 @@
+command_id: 700.708.2210CD
+test_cases:
+- expected_values:
+    ES300H_LFPS: 570.75
+  response: 708056210CD964B

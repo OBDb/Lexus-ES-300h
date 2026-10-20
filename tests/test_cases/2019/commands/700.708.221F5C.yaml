@@ -1,0 +1,5 @@
+command_id: 700.708.221F5C
+test_cases:
+- expected_values:
+    ES300H_EOT_V2: 86
+  response: 70804621F5C7E

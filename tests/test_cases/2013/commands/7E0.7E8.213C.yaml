@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.213C
+test_cases:
+- expected_values:
+    ES300H_INJ_DUR_CYL_1: 1.904
+    ES300H_INJ_VOL_CYL_1: 7.3843750000000003e-05
+    ES300H_TOT_FT_1: 5.46875
+  response: 7E807613C093B07708E
+- expected_values:
+    ES300H_INJ_DUR_CYL_1: 2.411
+    ES300H_INJ_VOL_CYL_1: 0.00017
+    ES300H_TOT_FT_1: 0
+  response: 7E807613C14C8096B80
+- expected_values:
+    ES300H_INJ_DUR_CYL_1: 3.271
+    ES300H_INJ_VOL_CYL_1: 0.00019
+    ES300H_TOT_FT_1: 0
+  response: 7E807613C178E0CC780

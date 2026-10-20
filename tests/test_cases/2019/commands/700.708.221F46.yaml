@@ -1,0 +1,5 @@
+command_id: 700.708.221F46
+test_cases:
+- expected_values:
+    ES300H_AMBIENT_T_700: 46
+  response: 70804621F4656
