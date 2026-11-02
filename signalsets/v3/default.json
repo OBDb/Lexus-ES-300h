@@ -277,7 +277,7 @@
   "signals": [
     {"id": "ES300H_INITIAL_ENG_BAT_V_LO", "path": "Battery", "fmt": {"bix": 16, "len": 8, "max": 25.5, "div": 10, "unit": "volts" }, "name": "Initial engine battery voltage lower limit"}
   ]},
-{ "hdr": "700", "rax": "708", "dbg": true, "cmd": {"22": "1F2F"}, "freq": 30,
+{ "hdr": "700", "rax": "708", "dbg": true, "cmd": {"22": "1F2F"}, "freq": 1,
   "signals": [
     {"id": "ES300H_FLI", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
